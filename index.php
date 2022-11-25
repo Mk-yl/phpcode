@@ -5,7 +5,6 @@ include ('header.php');
 ?>
 <h1>Bienvenue sur l'album photo</h1>
 <h2> Les caractéristique de chaque photo son presenter dans ce tableau</h2>
-<h3>merci timeo </h3>
 
 
 <?php
